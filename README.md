@@ -1,8 +1,11 @@
-  ##Hi, I’m @welisgithub, but you can call me welisson!
+  ## Hi, I’m @welisgithub, but you can call me welisson!
 
 - 👀 I’m interested in learn and meet new people...
+
 - 🌱 I’m currently learning, but i can help you if you need...
+
 - 💞️ I’m looking to collaborate in what i can.
+
 - 📫 How to reach me? Well, you can talk me by e-mail: welissonfilipe@gmail.com 
 
 <div>
