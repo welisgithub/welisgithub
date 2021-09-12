@@ -11,15 +11,15 @@
 <div>
   <a href="https://github.com/welisgithub">
   <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=welisgithub&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=welisgithub&layout=compact&langs_count=7&theme=dark"/>
-  <img align="right" alt="welis-img-anime" heigth="150" width="150" src="https://cdn.discordapp.com/attachments/763852194726019153/886157588788563988/Webp.net-gifmaker.gif">
+  <img align="right" height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=welisgithub&layout=compact&langs_count=7&theme=dark"/>
+  
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="welis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="welis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="welis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="welis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
+  <img align="right" alt="welis-img-anime" heigth="150" width="150" src="https://cdn.discordapp.com/attachments/763852194726019153/886157588788563988/Webp.net-gifmaker.gif">
 </div>
 <br>
 <div> 
